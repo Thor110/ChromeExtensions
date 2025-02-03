@@ -1,4 +1,4 @@
-# ChromeExtensions
+# Chrome Extensions
 A repository to store any chrome extensions I create.
 
 # Disable YouTube Shorts
