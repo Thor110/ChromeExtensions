@@ -3,7 +3,7 @@
   "name": "YouTube Shorts Loop Disabler",
   "author": "Thor110",
   "update_url": "https://github.com/Thor110/ChromeExtensions",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Disables loop on YouTube Shorts videos",
   "icons": {
     "16": "icon16.png",
