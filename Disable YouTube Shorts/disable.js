@@ -21,4 +21,4 @@ function disableLoop() {
 document.addEventListener('DOMContentLoaded', disableLoop);
 
 // Run the function every second to ensure looping is disabled
-setInterval(disableLoop, 1000);
+setInterval(disableLoop, 100);
