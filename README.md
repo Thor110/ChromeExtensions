@@ -4,7 +4,7 @@ A repository to store any chrome extensions I create.
 # Disable YouTube Shorts Loop
 Disables loop on YouTube Shorts videos
 
-Visit <a href="chrome://extensions/" title="">chrome://extensions/</a>
+Visit [chrome://extensions/](chrome://extensions/)
 Click the "Load Unpacked" button.
 Select the "Disable YouTube Shorts Loop" directory.
 
