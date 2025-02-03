@@ -1,6 +1,9 @@
 # Chrome Extensions
 A repository to store any chrome extensions I create.
 
+# Disable Twitch Homepage Video Autoplay
+Not Working Yet
+
 # Disable YouTube Shorts Loop
 Disables looping on YouTube Shorts videos.
 
