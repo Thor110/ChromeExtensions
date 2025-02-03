@@ -10,4 +10,5 @@ function disableLoop() {
   }
 }
 
-disableLoop();
+document.addEventListener('DOMContentLoaded', disableLoop);
+setInterval(disableLoop, 100);
