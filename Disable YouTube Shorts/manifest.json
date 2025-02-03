@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Shorts Loop Disabler",
+  "version": "1.0",
+  "description": "Disables loop on YouTube Shorts videos",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/shorts/*"],
+      "js": ["disable.js"]
+    }
+  ]
+}
