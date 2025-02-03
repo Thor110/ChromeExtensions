@@ -10,4 +10,6 @@ Click the "Load Unpacked" button.
 
 Select the "Disable YouTube Shorts Loop" directory.
 
+Restart Google Chrome or Click "Reload" [ ⟳ ] on the Extensions Page and refresh the YouTube Shorts Page.
+
 <a href="https://www.flaticon.com/free-icons/replay" title="replay icons">Replay icons created by Smashicons - Flaticon</a>
