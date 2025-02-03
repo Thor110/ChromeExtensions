@@ -13,3 +13,8 @@ Select the "Disable YouTube Shorts Loop" directory.
 Restart Google Chrome or Click "Reload" [ ⟳ ] on the Extensions Page and refresh the YouTube Shorts Page.
 
 <a href="https://www.flaticon.com/free-icons/replay" title="replay icons">Replay icons created by Smashicons - Flaticon</a>
+
+# Alternative Solution
+uBlock Origin Custom Filter
+
+https://www.reddit.com/r/uBlockOrigin/comments/1bhezeo/stop_youtube_shorts_from_looping/
