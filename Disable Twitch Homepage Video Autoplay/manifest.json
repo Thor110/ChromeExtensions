@@ -4,7 +4,7 @@
   "author": "Thor110",
   "update_url": "https://github.com/Thor110/ChromeExtensions",
   "version": "1.0.1",
-  "description": "Disables the Twitch Homepage Video from autoplaying",
+  "description": "Disables the Twitch Homepage Video from autoplaying.",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
