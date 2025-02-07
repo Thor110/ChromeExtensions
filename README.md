@@ -1,6 +1,8 @@
 # Chrome Extensions
 A repository to store any chrome extensions I create.
 
+These also work on Microsoft Edge.
+
 # Disable Twitch Homepage Video Autoplay
 Disables the Twitch Homepage Video from autoplaying.
 
