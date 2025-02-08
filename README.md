@@ -7,6 +7,8 @@ Google Chrome
 
 Microsoft Edge
 
+For Microsoft Edge you have to enable developer mode first.
+
 # Disable Twitch Homepage Video Autoplay
 Disables the Twitch Homepage Video from autoplaying.
 
