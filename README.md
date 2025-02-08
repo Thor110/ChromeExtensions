@@ -3,9 +3,8 @@ A repository to store any browser extensions I create.
 
 These are tested and work on the following browsers.
 
-Google Chrome
-
-Microsoft Edge
+# Google Chrome
+# Microsoft Edge
 
 For Microsoft Edge you have to enable developer mode first.
 
