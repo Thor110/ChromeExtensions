@@ -1,25 +1,21 @@
-console.log('Content script injected');
+// twitch.js
+console.log('Stuck Twitch: Anti-Autoplay engaged.');
 
-let buttonClicked = false;
-
-function disableLoop() {
-  console.log('disableLoop function called');
-  const button = document.querySelector('[data-a-target="player-play-pause-button"]');
-  console.log('Button query result:', button);
-
-  if (button &&!buttonClicked) {
-    console.log('Button found');
-    buttonClicked = true;
-    setTimeout(() => {
-      button.click();
-      console.log('Button click event triggered');
-    }, 1000);
-  } else if (button) {
-    console.log('Button already clicked');
-    clearInterval(myInterval);
-  } else {
-    console.log('Button not found');
-  }
+function stopTheScreaming() {
+    // 1. Target the video element directly. This is much harder for them to hide.
+    const videos = document.querySelectorAll('video');
+    
+    videos.forEach(video => {
+        // 2. If it's the homepage video and it's trying to play, stop it.
+        if (!video.paused) {
+            console.log('Autoplay detected. Pausing...');
+            video.pause();
+            
+            // 3. Mute it as a backup in case it manages to override the pause.
+            video.muted = true;
+        }
+    });
 }
 
-const myInterval = setInterval(disableLoop, 1000);
+// Run the check every 500ms to catch any late-loading videos or forced resets.
+setInterval(stopTheScreaming, 500);
