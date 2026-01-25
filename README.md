@@ -17,8 +17,6 @@ These are tested and work on the following browsers.
 For Microsoft Edge you have to enable developer mode first.
 
 # Disable Twitch Homepage Video Autoplay
-Currently broken.
-
 Disables the Twitch Homepage Video from autoplaying.
 
 Visit chrome://extensions/ or click Settings [ ⋮ ] -> Extensions -> Manage Extensions.
