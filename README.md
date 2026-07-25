@@ -55,6 +55,19 @@ Restart your browser or Click "Reload" [ ⟳ ] on the Extensions Page and refres
 
 <a href="https://www.flaticon.com/free-icons/replay" title="replay icons">Replay icons created by Smashicons - Flaticon</a>
 
+# Claude Continue
+Sets a timer for Claude and sends a simple "continue" message for those times when you want to walk away from the computer but want to return to a finished message chain.
+
+Visit chrome://extensions/ or click Settings [ ⋮ ] -> Extensions -> Manage Extensions.
+
+Click the "Load Unpacked" button.
+
+Select the "Claude Continue" directory.
+
+Press CTRL+SHIFT+U to bring up a window for setting the timer, set the timer to the time your usage is up maybe add a minute to be safe and hit set timer.
+
+<a href="https://www.flaticon.com/free-icons/replay" title="replay icons">Replay icons created by Smashicons - Flaticon</a>
+
 # Alternative Solution
 uBlock Origin Custom Filter.
 
