@@ -2,8 +2,8 @@
   "manifest_version": 3,
   "name": "Disable Twitch™ Homepage Video Autoplay",
   "author": "Thor110",
-  "update_url": "https://github.com/Thor110/ChromeExtensions",
-  "version": "1.0.2",
+  "homepage_url": "https://github.com/Thor110/ChromeExtensions",
+  "version": "1.0.3",
   "description": "Disables the Twitch™ Homepage Video from autoplaying.",
   "icons": {
     "16": "icon16.png",
@@ -13,7 +13,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://www.twitch.tv/"],
+      "matches": ["*://www.twitch.tv/*"],
       "js": ["twitch.js"]
     }
   ]

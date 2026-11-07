@@ -66,6 +66,8 @@ Select the "Claude Continue" directory.
 
 Press CTRL+SHIFT+U to bring up a window for setting the timer, set the timer to the time your usage is up maybe add a minute to be safe and hit set timer.
 
+Keep the Claude tab open until the timer fires. If the tab was already open when you installed or reloaded the extension, refresh it first.
+
 <a href="https://www.flaticon.com/free-icons/replay" title="replay icons">Replay icons created by Smashicons - Flaticon</a>
 
 # Alternative Solution
